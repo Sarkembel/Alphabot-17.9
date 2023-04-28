@@ -89,7 +89,7 @@ global.tag_owner = "./tag_owner.mp3" // audio ini akan di kirim apabila ada memb
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '𝕗𝕠𝕝𝕝𝕠𝕨 𝕚𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞 @𝕒𝕟𝕕𝕚𝕚𝕘𝕟𝕕𝕣𝟚𝟡' //botname sticker wm ubah
-global.author = ' thx ' + ownername //sticker wm ganti nama kalian
+global.author = ' thx ' //ownername sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 1000 //5 detik, 1000 = 1 detik
 //type menu for menu
